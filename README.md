@@ -5,16 +5,22 @@ Contributors are welcome!
 
 This project will hopefully evolve into a full-fledged application at some point, but it's not right now.
 
-
 ## Status
 
-Too early to share the details.
+Under development! Not working now.
 
 ## Prerequisites
 
 * Qt >= 5.11 (due to some recent additions to the QtBluetooth stack)
 
+## Build
+
+`qmake`
+`make`
+
 ## License
 
 GPLv2
 
+# Screenshot
+![screenshot](./aneng_an9002_linux.jpg  "Screenshot")
