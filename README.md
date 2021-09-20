@@ -1,13 +1,18 @@
 # Aneng AN9002 Bluetooth DMM 
 
-The 9002 is a BLE enabled multimeter (Forked from 121gw-qt5), NOT released, only for tests
-Contributors are welcome!
+The 9002 is a BLE enabled multimeter (Forked from 121gw-qt5), NOT released, only for tests.
 
-This project will hopefully evolve into a full-fledged application at some point, but it's not right now.
+### Contributors are welcome!
+
+* This project will hopefully evolve into a full-fledged application at some point, but it's not right now.
+
+## Developer info and help
+
+Wiki: https://github.com/blackPantherOS/AN9002/wiki
 
 ## Status
 
-Under development! Not working now.
+* Under development! Not working now.
 
 ## Prerequisites
 
@@ -16,11 +21,12 @@ Under development! Not working now.
 ## Build
 
 `qmake`
+
 `make`
 
 ## License
 
-GPLv2
+* GPLv2
 
 # Screenshot
 ![screenshot](./aneng_an9002_linux.jpg  "Screenshot")
