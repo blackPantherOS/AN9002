@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/121gw-lcd.svg</file>
+        <file>assets/9002-lcd.svg</file>
+    </qresource>
+</RCC>
